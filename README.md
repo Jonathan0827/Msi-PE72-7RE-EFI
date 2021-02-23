@@ -1,0 +1,2 @@
+# Msi-PE72-7RE-EFI
+macOS EFI for Msi PE72 7RE
